@@ -1,0 +1,92 @@
+[
+    {
+        "targetGroup": "*",
+        "min": 500,
+        "max": 10000,
+        "color": "rgb(128,0,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 450,
+        "max": 499,
+        "color": "rgb(139,0,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 400,
+        "max": 449,
+        "color": "rgb(178,34,34)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 350,
+        "max": 399,
+        "color": "rgb(220,20,60)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 300,
+        "max": 349,
+        "color": "rgb(255,0,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 250,
+        "max": 299,
+        "color": "rgb(255,69,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 200,
+        "max": 249,
+        "color": "rgb(255,99,71)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 150,
+        "max": 199,
+        "color": "rgb(255,140,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 100,
+        "max": 149,
+        "color": "rgb(255,165,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 50,
+        "max": 99,
+        "color": "rgb(255,215,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 25,
+        "max": 49,
+        "color": "rgb(173,255,47)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 15,
+        "max": 24,
+        "color": "rgb(127,255,0)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 10,
+        "max": 14,
+        "color": "rgb(0,255,127)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 5,
+        "max": 9,
+        "color": "rgb(30,144,255)"
+    },
+    {
+        "targetGroup": "*",
+        "min": 0,
+        "max": 4,
+        "color": "rgb(0,0,255)"
+    }
+]
