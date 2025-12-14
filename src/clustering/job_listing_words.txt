@@ -1,0 +1,218 @@
+suorittaa koekäyttöjä
+hankkia tietoa teknisistä lähteistä
+poistaa käsiteltyjä työkappaleita
+hoitaa cnc-sorvia
+käyttää tarkkuusmittausvälineitä
+toteuttaa ympäristönsuojelutoimenpiteitä
+metallinjalostusprosessien tyypit
+suojavarusteet
+varmistaa laitteiden saatavuus
+tarkastaa tuotteiden laatu
+lukea tavanomaisia piirustuksia
+käyttää soveltuvia suojavarusteita
+valimotyöntekijä
+tehdä koneen ohjausasetuksia
+valimotyöntekijät hitsaajat levysepät ym
+putkihitsaaja
+valvoa automatisoituja koneita
+käyttää metallin hienotyöstötekniikoita
+esikäsitellä työkappaleita
+sepät työkaluntekijät ja koneenasettajat
+työkaluntekijä
+varmistaa oikea metallin lämpötila
+alumiini
+kaarihitsaus
+metallirakenteiden valmistus
+mag
+jyrsintä
+noudattaa terveys- ja turvallisuuskäytäntöjä rakennustyömaalla
+syöttää konetta
+teräsrakenteet
+sap r3
+asettaa koneeseen tarvittavia työstöosia
+tuotteiden elinkaari
+suorittaa koneiden huoltoa
+tuotteen elinkaari
+teollisuusputkiasentaja
+kuumentaa metalleja
+tallentaa tuotantotietoja laadunvalvontaa varten
+metallin liittämisteknologiat
+käyttää teknisen piirtämisen ohjelmistoja
+pintakäsittelijä
+automatisointi
+ohjelmoida cnc-ohjausta
+laadunvarmistus
+selvittää laitteiden toimintahäiriöitä
+luokkahitsaaja
+raaka-aineet
+teollisuuden sähköasentaja
+konetekniikka
+sähkölaitteet
+tekniset piirustukset
+tekninen osaaminen
+mittauslaitteet
+juottaa elektroniikkaa
+käyttää mittauslaitteita
+sähköasennukset
+käyttää juottamislaitteita
+maarakennuskoneet
+sähköasennusten kytkentäkaaviot
+teollisuusmaalari
+käyttää teknisen viestinnän taitoja
+johtamisjärjestelmät
+metallin lastuamattoman työstön teknologiat
+pneumatiikka
+aarporaaja
+käyttää testauslaitteita
+automaatiotekniikka
+muokata teknisiä suunnitelmia
+teollisuussähköasentaja
+ohutlevyseppä
+putkihitsaus
+ruostumaton teräs
+huolehtia sähkölaitteista
+rakennustarvikkeet
+työskennellä hitsauslaitteilla
+vaihtaa viallisia komponentteja
+asentaa sähkö ja elektroniikkalaitteita
+teknisen suunnittelun periaatteet
+tarkastaa sähkötarvikkeita
+asentaa automaattisulakkeet
+aurinkopaneelien asennusjärjestelmät
+käyttää hitsauslaitteita
+työskennellä rakennustiimissä
+valvoa tietojen syöttöä
+yhdistetty
+suorittaa rutiininomaisia koneiden tarkastuksia
+suunnitteluohjelmat
+koneet ja laitteet
+sähköasentaja sähkömittarit
+elintarvikkeet
+laatia vaatimustenmukaisuusasiakirjoja
+sähkölaitteiden asentajat ja korjaajat
+sähkötekniikka
+huoltaa robotiikkalaitteita
+teräsrakenneasentaja
+tuotetietous
+tuotetuntemus
+karusellisorvaaja
+käyttää tietokoneavusteisia suunnitteluohjelmia
+laitosmies
+teräkset
+rakennuksen järjestelmien seurantateknologia
+varastopäällikkö
+hävittää vaarallista jätettä
+koota elektronisia yksiköitä
+käyttää tarkkuustyökaluja
+materiaalien käsittely
+tietokoneavusteiset laskenta- ja analyysiohjelmistot
+kylmälaiteasentaja
+riskienhallinta
+hioja
+sähköteknologian erityisasiantuntijat
+levytyö
+poistaa heikkolaatuisia työkappaleita
+solidworks
+käyttää automaattista prosessinohjausta
+robottihitsaaja
+asentaa hydraulisia järjestelmiä
+asentaa paineilmajärjestelmiä
+koneinsinööri
+laskea rakennustarvikkeiden tarve
+putkiasennuksen
+putkiasennus
+viimeistelijä
+devices
+jauhekaarihitsaus
+laatuinsinööri
+laserleikkaus
+machine to machine
+huoltomekaanikko
+iso 9001
+kiillottaja
+koneenosat
+logistiikkakeskus
+sorvaus
+sähköjärjestelmät
+tehdä sähköasennusten kytkentäkaavioita
+toiminnanohjausjärjestelmät
+tulkita teknisiä piirustuksia
+työterveys ja -turvallisuus
+huolehtia työskentelyalueen puhtaudesta
+konetekniikan asiantuntija
+teollisuuskiinteistöt
+hoitaa teknisiä tehtäviä huolellisesti
+kiinnittää komponentteja
+kohdistaa osia
+koneenhoitaja
+logistiikka ala
+metalliteollisuuden prosessityöntekijät
+metalliteollisuuden prosessityöntekijät ja viimeistelijät
+polttoleikkaus
+prosessinhoitaja
+rahdinkäsittelijät ja varastotyöntekijät ym
+rahdinkäsittelijät varastotyöntekijät ym
+tehdä itsenäisesti ruumiillista työtä
+tuotantoinsinööri
+työstökoneet
+aarporaus
+autoteollisuuden vianmäärityslaitteet
+jätehuolto
+korjata johtoja
+käyttää autoteollisuuden vianmäärityslaitteita
+laatia teknisiä suunnitelmia
+moottoriasentaja
+polttoleikkaaja
+putket
+siltanosturin
+teollisuustuotteiden kokoonpanijat
+valita kestävät teknologiat suunnittelussa
+asentaa aurinkokäyttöinen vedenlämmitin
+asentaa puuelementtejä rakenteisiin
+katselmointi
+kehittää automaattisia siirtomenetelmiä
+märkämaalaus
+noudattaa terveydelle vaarallisten aineiden hallintakäytäntöjä
+voimalaitos
+hiekkapuhallus
+huoltaa asennettuja laitteita
+levyaihion valmistus
+mitata materiaaleja
+moottoriasennus
+musta teräs
+prosessien hallinta
+tarkastaa materiaalien yhteensopivuus
+varastonhoitaja
+laatuvaatimukset
+muutostyöt
+purkaminen
+rakennusmestari
+sähkömekaaninen tekniikka
+tavarantoimittaja
+technician
+urheiluvarusteiden valmistus
+ammattitaitoinen henkilökunta
+asennuskokemus
+asentaa vedenpitäviä kalvoja
+asentaja teollisuu
+koota sähkökomponentteja
+käyttää kaarihitsauksen tekniikoita
+mastercam
+metallisten kotitaloustavaroiden valmistus
+sähkösuunnittelu
+tuotannon suunnittelu
+asentaa pienjännitejohdot
+autocad
+continuous improvement
+elektroniikkalaitteiden kokoonpanija
+keräily ja pakkaaminen
+konepajatuotteet
+koota mittauslaitteita
+käyttää hiomakoneita
+käyttää painokoneita
+laitehuolto
+mag hitsaus
+ohjeistaa energiansäästöteknologioissa
+pintakäsittelyalan
+tekninen johtaja
+tuotteiden integrointi

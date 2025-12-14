@@ -1,0 +1,95 @@
+CNC
+aarporaus
+alumiini
+ammattitaitoinen henkilökunta
+asennus
+autocad
+automaatio
+autoteollisuuden vianmäärityslaitteet
+continuous improvement
+devices
+elektroniikka
+elintarvike
+esikäsitellä työkappaleita
+hiekkapuhallus
+hiominen
+hitsaus
+huolehtia työskentelyalueen puhtaudesta
+huolto
+hävittää vaarallista jätettä
+iso 9001
+johtamisjärjestelmät
+jyrsintä
+karusellisorvaaja
+katselmointi
+keräily ja pakkaaminen
+kiillottaja
+kohdistaa osia
+komponentit
+koneet
+korjata johtoja
+käyttää juottamislaitteita
+käyttää tarkkuustyökaluja
+käyttää testauslaitteita
+laadunvarmistus
+laatu
+laitosmies
+laserleikkaus
+levytyö
+logistiikka
+lukea tavanomaisia piirustuksia
+maalaus
+machine to machine
+mag
+mastercam
+materiaali
+metalli
+mittaus
+musta teräs
+muutostyöt
+ohjeistaa energiansäästöteknologioissa
+ohutlevyseppä
+pintakäsittely
+pneumatiikka
+poistaa käsiteltyjä työkappaleita
+polttoleikkaus
+prosessi
+purkaminen
+putket
+raaka-aineet
+rahdinkäsittelijät ja varastotyöntekijät
+rakentaminen
+riskienhallinta
+ruostumaton teräs
+sap r3
+selvittää laitteiden toimintahäiriöitä
+siltanosturin
+solidworks
+sorvaus
+suojavarusteet
+suorittaa koekäyttöjä
+suunnittelu
+sähkö
+tallentaa tuotantotietoja laadunvalvontaa varten
+technician
+tehdä itsenäisesti ruumiillista työtä
+tekniikka
+teollisuuskiinteistöt
+teollisuustuotteiden kokoonpanijat
+terveys
+teräkset
+toiminnanohjausjärjestelmät
+toteuttaa ympäristönsuojelutoimenpiteitä
+tuotantoinsinööri
+tuotetuntemus
+tuotteen elinkaari
+tuotteiden integrointi
+työkaluntekijä
+valimotyöntekijä
+valmistus
+valvoa tietojen syöttöä
+varastotyö
+varmistaa laitteiden saatavuus
+viimeistelijä
+voimalaitos
+yhdistetty
