@@ -2,7 +2,7 @@
 
 A data visualization project analyzing manufacturing industry trends.
 
-**Note: The original dataset is proprietary, so this repository constains only the processing pipeline and anonymized/aggregated outputs.**
+**Note: The original dataset is proprietary, so this repository contains only the processing pipeline and anonymized/aggregated outputs.**
 
 ![Manufacturing Industry Topics Heatmap](./assets/main.gif)
 **Manufacturing Industry Topics Heatmap**
