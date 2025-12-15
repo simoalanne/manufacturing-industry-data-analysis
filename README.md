@@ -1,17 +1,17 @@
 # Manufacturing Industry Data Analysis
 
-**Note: This is a data visualization project analyzing manufacturing industry trends. The original dataset is proprietary, so this repository is a slightly modified copy of original, containing only the processing pipeline and anonymized/aggregated outputs.**
+A data visualization project analyzing manufacturing industry trends.
 
-## 📊 Preview
+**Note: The original dataset is proprietary, so this repository constains only the processing pipeline and anonymized/aggregated outputs.**
 
+![Manufacturing Industry Topics Heatmap](./assets/main.gif)
+**Manufacturing Industry Topics Heatmap**
 ![Kone Heatmap](./assets/kone.png)
 **Kone Heatmap**
 ![Robotiikka Heatmap](./assets/robotiikka.png)
 **Robotiikka Heatmap**
 ![Teollisuus Heatmap](./assets/teollisuus.png)
 **Teollisuus Heatmap**
-![Manufacturing Industry Topics Heatmap](./assets/main.gif)
-**Manufacturing Industry Topics Heatmap**
 
 ## 🎯 About
 
